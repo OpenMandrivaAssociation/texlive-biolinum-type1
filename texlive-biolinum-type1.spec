@@ -9,7 +9,7 @@ Version:	5.3.0
 Release:	1
 Summary:	(pdf)LaTeX support for the Biolinum family of fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/biolinum-type1
+URL:		https://www.ctan.org/tex-archive/fonts/biolinum-type1
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biolinum-type1.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biolinum-type1.doc.tar.xz
